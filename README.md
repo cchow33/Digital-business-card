@@ -1,4 +1,5 @@
-# Scrimba React solo project - making a digital business card featuring 
+# Digital business card
+Scrimba React Solo Project #1
 
 
 # Getting Started with Create React App
